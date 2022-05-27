@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "OG Emoji pack",
+    "price": "0.09",
+    "description": "Get this fire emoji pack for only $0.09! Includes 3 hot emojis: Forreal, Flooshed, and Sheesh!",
+    "image_url": "https://i.imgur.com/FLDrYDe.png",
+    "filename": "Emojis.zip",
+    "hash": "QmWWH69mTL66r3H8P4wUn24t1L5pvdTJGUTKBqT11KCHS5"
+  },
+  {
+    "id": 2,
+    "name": "Cat Pack",
+    "price": ".10",
+    "image_url": "https://i.imgur.com/bGmCOmX.png",
+    "description": "1 cat image",
+    "filename": "cat_store.jpg",
+    "hash": "Qmeu5MMBY58riq9rUEq6z4byzUsZJNUJyJSTv66UQqBu9p"
+  }
+]
